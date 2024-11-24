@@ -39,7 +39,7 @@ function subtract(x, y) {
   // Test the function
   console.log(preserveDecimal("3.1415"));
   console.log(preserveDecimal("20.5px"));
-  console.log(preserveDecimal("elvis"));
+  console.log(preserveDecimal("kevin"));
   console.log(preserveDecimal("1234"));
   console.log(preserveDecimal(".42"));
   
